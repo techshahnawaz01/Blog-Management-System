@@ -62,9 +62,6 @@ cd Blog-Management-System
 # Install PHP dependencies
 composer install
 
-# Install and build frontend assets
-npm install
-npm run build
 ```
 
 ### 3. Environment Setup
