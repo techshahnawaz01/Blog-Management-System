@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="icon" href="{{ asset('image/logo3.png') }}" type="image/png">
+    <link rel="icon" href="{{ asset('images/logo1.png') }}" type="image/png">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <script>
